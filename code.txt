@@ -1,0 +1,134 @@
+smr-1.3.1  --qfile APOF_smr.txt --make-besd --out APOF
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.12 --gwas-summary ./pso.ma --beqtl-summary ./APOF --out ./APOF_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile IL12B_smr.txt --make-besd --out IL12B
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.5 --gwas-summary ./pso.ma --beqtl-summary ./IL12B --out ./IL12B_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile FAM13A_smr.txt --make-besd --out FAM13A
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.4 --gwas-summary ./pso.ma --beqtl-summary ./FAM13A --out ./FAM13A_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile MMP12_smr.txt --make-besd --out MMP12
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.11 --gwas-summary ./pso.ma --beqtl-summary ./MMP12 --out ./MMP12_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile PCSK9_smr.txt --make-besd --out PCSK9
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.1 --gwas-summary ./pso.ma --beqtl-summary ./PCSK9 --out ./PCSK9_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile PRSS8_smr.txt --make-besd --out PRSS8
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.16 --gwas-summary ./pso.ma --beqtl-summary ./PRSS8 --out ./PRSS8_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile RPA2_smr.txt --make-besd --out RPA2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.1 --gwas-summary ./pso.ma --beqtl-summary ./RPA2 --out ./RPA2_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile SCLY_smr.txt --make-besd --out SCLY
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.2 --gwas-summary ./pso.ma --beqtl-summary ./SCLY --out ./SCLY_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile SEPTIN8_smr.txt --make-besd --out SEPTIN8
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.5 --gwas-summary ./pso.ma --beqtl-summary ./SEPTIN8 --out ./SEPTIN8_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile VEGFA_smr.txt --make-besd --out VEGFA
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.6 --gwas-summary ./pso.ma --beqtl-summary ./VEGFA --out ./VEGFA_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile ACY1_smr.txt --make-besd --out ACY1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.3 --gwas-summary ./pso.ma --beqtl-summary ./ACY1 --out ./ACY1_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CD80_smr.txt --make-besd --out CD80
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.3 --gwas-summary ./pso.ma --beqtl-summary ./CD80 --out ./CD80_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CDCP1_smr.txt --make-besd --out CDCP1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.3 --gwas-summary ./pso.ma --beqtl-summary ./CDCP1 --out ./CDCP1_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile C4BPB_smr.txt --make-besd --out C4BPB
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.1 --gwas-summary ./pso.ma --beqtl-summary ./C4BPB --out ./C4BPB_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile IGSF3_smr.txt --make-besd --out IGSF3
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.1 --gwas-summary ./pso.ma --beqtl-summary ./IGSF3 --out ./IGSF3_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile ICAM1_smr.txt --make-besd --out ICAM1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.19 --gwas-summary ./pso.ma --beqtl-summary ./ICAM1 --out ./ICAM1_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile IL22_smr.txt --make-besd --out IL22
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.12 --gwas-summary ./pso.ma --beqtl-summary ./IL22 --out ./IL22_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile NOS2_smr.txt --make-besd --out NOS2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.17 --gwas-summary ./pso.ma --beqtl-summary ./NOS2 --out ./NOS2_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile PTPRK_smr.txt --make-besd --out PTPRK
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.6 --gwas-summary ./pso.ma --beqtl-summary ./PTPRK --out ./PTPRK_pso --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile ANXA5_smr.txt --make-besd --out ANXA5
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.4 --gwas-summary ./acne.ma --beqtl-summary ./ANXA5 --out ./ANXA5_acne --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile FSTL1_smr.txt --make-besd --out FSTL1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.3 --gwas-summary ./acne.ma --beqtl-summary ./FSTL1 --out ./FSTL1_acne --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CD2_smr.txt --make-besd --out CD2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.1 --gwas-summary ./sd.ma --beqtl-summary ./CD2 --out ./CD2_sd --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CD6_smr.txt --make-besd --out CD6
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.11 --gwas-summary ./sd.ma --beqtl-summary ./CD6 --out ./CD6_sd --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CEACAM1_smr.txt --make-besd --out CEACAM1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.19 --gwas-summary ./sd.ma --beqtl-summary ./CEACAM1 --out ./CEACAM1_sd --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CRHBP_smr.txt --make-besd --out CRHBP
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.5 --gwas-summary ./sd.ma --beqtl-summary ./CRHBP --out ./CRHBP_sd --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile LAMP3_smr.txt --make-besd --out LAMP3
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.3 --gwas-summary ./sd.ma --beqtl-summary ./LAMP3 --out ./LAMP3_sd --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile ABHD14B_smr.txt --make-besd --out ABHD14B
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.3 --gwas-summary ./rosacea.ma --beqtl-summary ./ABHD14B --out ./ABHD14B_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile APP_smr.txt --make-besd --out APP
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.21 --gwas-summary ./rosacea.ma --beqtl-summary ./APP --out ./APP_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CHMP6_smr.txt --make-besd --out CHMP6
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.17 --gwas-summary ./rosacea.ma --beqtl-summary ./CHMP6 --out ./CHMP6_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile DBNL_smr.txt --make-besd --out DBNL
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.7 --gwas-summary ./rosacea.ma --beqtl-summary ./DBNL --out ./DBNL_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile HMCN2_smr.txt --make-besd --out HMCN2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.9 --gwas-summary ./rosacea.ma --beqtl-summary ./HMCN2 --out ./HMCN2_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile MCFD2_smr.txt --make-besd --out MCFD2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.2 --gwas-summary ./rosacea.ma --beqtl-summary ./MCFD2 --out ./MCFD2_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile MMP1_smr.txt --make-besd --out MMP1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.11 --gwas-summary ./rosacea.ma --beqtl-summary ./MMP1 --out ./MMP1_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile MSR1_smr.txt --make-besd --out MSR1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.8 --gwas-summary ./rosacea.ma --beqtl-summary ./MSR1 --out ./MSR1_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile SCARA5_smr.txt --make-besd --out SCARA5
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.8 --gwas-summary ./rosacea.ma --beqtl-summary ./SCARA5 --out ./SCARA5_rosacea --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CACYBP_smr.txt --make-besd --out CACYBP
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.1 --gwas-summary ./ad.ma --beqtl-summary ./CACYBP --out ./CACYBP_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CALCOCO2_smr.txt --make-besd --out CALCOCO2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.17 --gwas-summary ./ad.ma --beqtl-summary ./CALCOCO2 --out ./CALCOCO2_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile CETN3_smr.txt --make-besd --out CETN3
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.5 --gwas-summary ./ad.ma --beqtl-summary ./CETN3 --out ./CETN3_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile MOCS2_smr.txt --make-besd --out MOCS2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.5 --gwas-summary ./ad.ma --beqtl-summary ./MOCS2 --out ./MOCS2_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile PRRT3_smr.txt --make-besd --out PRRT3
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.3 --gwas-summary ./ad.ma --beqtl-summary ./PRRT3 --out ./PRRT3_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile PSTPIP2_smr.txt --make-besd --out PSTPIP2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.18 --gwas-summary ./ad.ma --beqtl-summary ./PSTPIP2 --out ./PSTPIP2_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile PVALB_smr.txt --make-besd --out PVALB
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.22 --gwas-summary ./ad.ma --beqtl-summary ./PVALB --out ./PVALB_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile TARBP2_smr.txt --make-besd --out TARBP2
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.12 --gwas-summary ./ad.ma --beqtl-summary ./TARBP2 --out ./TARBP2_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile TNFAIP8_smr.txt --make-besd --out TNFAIP8
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.5 --gwas-summary ./ad.ma --beqtl-summary ./TNFAIP8 --out ./TNFAIP8_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
+
+smr-1.3.1  --qfile TNIP1_smr.txt --make-besd --out TNIP1
+smr-1.3.1 --bfile ~/ukb/smr/1000G/1000G.EUR.QC.5 --gwas-summary ./ad.ma --beqtl-summary ./TNIP1 --out ./TNIP1_ad --thread-num 20 --diff-freq-prop 0.30 --maf 0.01 --peqtl-smr 5e-8 --peqtl-heidi 1.57e-3
